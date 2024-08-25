@@ -55,4 +55,4 @@
 Python {{ cookiecutter.version_python }}
 
 ## Licencia
-{{ cookiecutter.licenopen_source_licensese }}
+{{ cookiecutter.open_source_license }}
