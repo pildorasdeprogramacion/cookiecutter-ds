@@ -1,7 +1,7 @@
 {
     "full_name": "Edward Burgos",
     "repo_name": "DS Boilerplate",
-    "module_name": "{{ cookiecutter.module_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "module_name": "module_name",
     "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a DS project.",
     "version": "0.1.0",
     "version_python": "3.12",
